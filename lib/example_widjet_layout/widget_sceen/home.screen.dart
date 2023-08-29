@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:my_apptest/model/blog.model.dart';
-import 'package:my_apptest/pages/blogbox.pages.dart';
-import 'package:my_apptest/pages/blogdetails.pages.dart';
+
+import '../model/blog.model.dart';
+import '../pages/blogbox.pages.dart';
+import '../pages/blogdetails.pages.dart';
+
 
 class HomeScreen extends StatelessWidget {
   HomeScreen({Key? key, this.title}):super(key: key);

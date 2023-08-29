@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:my_apptest/model/blog.model.dart';
+
+import '../model/blog.model.dart';
+
 
 class BlogBox extends StatelessWidget {
   BlogBox({Key? key, this.item}): super(key: key);

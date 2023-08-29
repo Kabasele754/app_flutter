@@ -1,9 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:my_apptest/model/blog.model.dart';
+
+import '../model/blog.model.dart';
 
 class BlogPages extends StatelessWidget {
   const BlogPages({Key? key, this.item}): super(key: key);
   final Blog? item;
+  
+
 
   @override
   Widget build(BuildContext context) {

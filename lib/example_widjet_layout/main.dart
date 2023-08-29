@@ -1,7 +1,8 @@
+import 'package:app_flutter/example_widjet_layout/pages/gallery.pages.dart';
+import 'package:app_flutter/example_widjet_layout/widget_sceen/home.screen.dart';
+import 'package:app_flutter/example_widjet_layout/widget_sceen/message.screen.dart';
 import 'package:flutter/material.dart';
-import 'package:my_apptest/pages/gallery.pages.dart';
-import 'package:my_apptest/widget_sceen/home.screen.dart';
-import 'package:my_apptest/widget_sceen/message.screen.dart';
+
 
 void main(){
   runApp(MyApp());
